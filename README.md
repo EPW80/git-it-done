@@ -22,7 +22,7 @@ https://github.com/EPW80/git-it-done/deployments/activity_log?environment=github
 
 
 ## Contribution:
-Crafted by [Erik Williams]
+Erik Williams
 
 ## License
 Erik Williams - 2022
