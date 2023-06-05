@@ -10,9 +10,9 @@ Search for a GitHub user or click on a language to see a list of repositories an
 
 ## Installation
 
-Clone the repository: git clone https://github.com/<your-github-username>/Git-It-Done.git
-Navigate to the project's root directory: cd Git-It-Done
-Open the project in your browser.
+- Clone the repository: git clone https://github.com/<your-github-username>/Git-It-Done.git
+- Navigate to the project's root directory: cd Git-It-Done
+- Open the project in your browser.
 
 ## Demo
 
